@@ -18,5 +18,5 @@ A user should be able to:
 
 
 ## Teck stack
-- NextJS
+- NextJS/ReactJS
 - Any CSS styling framework would work
