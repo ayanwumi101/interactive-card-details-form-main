@@ -15,6 +15,7 @@ A user should be able to:
   - The card number, expiry date, or CVC fields are in the wrong format
 - View the optimal layout depending on their device's screen size
 - See hover, active, and focus states for interactive elements on the page
+- should be mobile responsive
 
 
 ## Teck stack
